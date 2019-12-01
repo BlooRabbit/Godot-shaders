@@ -1,10 +1,15 @@
 # Godot-shaders
 A selection of Godot shaders, most of them translated from Shadertoy.
 
-Pixeltransition:(https://github.com/Tsar333/Godot-shaders/blob/master/pixeltransition.gif)
+## Pixeltransition
 
-Cloudyskies: (https://github.com/Tsar333/Godot-shaders/blob/master/cloudyskies.gif)
+![Demo](./pixeltransition.gif)
 
-Fire: (https://github.com/Tsar333/Godot-shaders/blob/master/Fire.gif) 
+## Cloudyskies
+![Demo](./cloudyskies.gif)
 
-Fireworks: (https://github.com/Tsar333/Godot-shaders/blob/master/Fireworks.gif)
+## Fire
+![Demo](./Fire.gif) 
+
+## Fireworks
+![Demo](./Fireworks.gif)
