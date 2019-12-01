@@ -21,5 +21,6 @@ void fragment()
 		COLOR = vec4(uv,0.5+0.5*sin(5.0 * FRAGCOORD.x),1.0);
     }else{
 		COLOR = vec4(0.0,0.0,0.0,1.0);
+		// change to COLOR = vec4(0.0,0.0,0.0,0.0); to make transparent
     } 
 }
