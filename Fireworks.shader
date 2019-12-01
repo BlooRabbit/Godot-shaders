@@ -1,4 +1,6 @@
 // Fireworks shader
+// Based on shadertoy shader by Martijn Steinrucken aka BigWings - 2015 
+// (https://www.shadertoy.com/view/lscGRl)
 
 shader_type canvas_item;
 
