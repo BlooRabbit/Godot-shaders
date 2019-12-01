@@ -1,3 +1,6 @@
+// cloudy skies shader
+// inspired from shadertoy shader made by Drift (https://www.shadertoy.com/view/4tdSWr) 
+
 shader_type canvas_item;
 
 uniform float cloudscale = 1.1;
