@@ -5,4 +5,6 @@ Pixeltransition:(https://github.com/Tsar333/Godot-shaders/blob/master/pixeltrans
 
 Cloudyskies: (https://github.com/Tsar333/Godot-shaders/blob/master/cloudyskies.gif)
 
-Fire: https://github.com/Tsar333/Godot-shaders/blob/master/Fire.gif) 
+Fire: (https://github.com/Tsar333/Godot-shaders/blob/master/Fire.gif) 
+
+Fireworks: (https://github.com/Tsar333/Godot-shaders/blob/master/Fireworks.gif)
