@@ -1,5 +1,5 @@
 # Godot-shaders
-A selection of Godot shaders, most of them translated from Shadertoy. Can be used by anyone, for any project, anywhere, at your own risk.
+A selection of Godot shaders, most of them translated / adapted from Shadertoy stuff. Can be used by anyone, for any project, anywhere, at your own risk.
 
 ## Pixeltransition
 
